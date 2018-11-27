@@ -9,7 +9,7 @@
             "changeTime": 1543295452176,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -24,7 +24,7 @@
             "changeTime": 1543295452176,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -37,9 +37,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1543298910465,
-            "changeTime": 1543298910465,
-            "contentHash": "407f569bafb061bcd4b838c38d6c2b07086fd537"
+            "modifiedTime": 1543307704412,
+            "changeTime": 1543307704412,
+            "contentHash": "2d77799905a31e4bea0a800655145a6bdbd9405d"
         }
     ],
     [
@@ -52,7 +52,7 @@
             "changeTime": 1543295452192,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -67,7 +67,7 @@
             "changeTime": 1543296528766,
             "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -75,729 +75,1158 @@
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\globalValueSets\\Country.globalValueSet-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\globalValueSets\\Country.globalValueSet-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1338,
             "modifiedTime": 1543298910141,
             "changeTime": 1543298910141,
-            "contentHash": "3c08782ca82cca4fd7569a2c23f00bce6623f3d4"
+            "contentHash": "3c08782ca82cca4fd7569a2c23f00bce6623f3d4",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\globalValueSets\\Types.globalValueSet-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\globalValueSets\\Types.globalValueSet-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1674,
             "modifiedTime": 1543298910151,
             "changeTime": 1543298910151,
-            "contentHash": "58a1c45334a960cadae731a62b77b3d5373a77ff"
+            "contentHash": "58a1c45334a960cadae731a62b77b3d5373a77ff",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\globalValueSets\\State.globalValueSet-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\globalValueSets\\State.globalValueSet-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 6586,
             "modifiedTime": 1543298910161,
             "changeTime": 1543298910161,
-            "contentHash": "6d5d4850463067e500554c4ffa8a242ef828b26e"
+            "contentHash": "6d5d4850463067e500554c4ffa8a242ef828b26e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\globalValueSets\\Reservation_Status.globalValueSet-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\globalValueSets\\Reservation_Status.globalValueSet-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1057,
             "modifiedTime": 1543298910167,
             "changeTime": 1543298910167,
-            "contentHash": "c2ba1727bf103c2ab49de4c4754766d028de20f1"
+            "contentHash": "c2ba1727bf103c2ab49de4c4754766d028de20f1",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Market__c\\Market__c.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Market__c\\Market__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2072,
             "modifiedTime": 1543298910191,
             "changeTime": 1543298910191,
-            "contentHash": "c8afd47819f68047391630a439fe709ffc48d30c"
+            "contentHash": "c8afd47819f68047391630a439fe709ffc48d30c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\City__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\City__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 353,
             "modifiedTime": 1543298910197,
             "changeTime": 1543298910197,
-            "contentHash": "bd2781c468a9118e799e2d378a4ef05c9d456af0"
+            "contentHash": "bd2781c468a9118e799e2d378a4ef05c9d456af0",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\Country__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\Country__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 426,
             "modifiedTime": 1543298910199,
             "changeTime": 1543298910199,
-            "contentHash": "561c003c858bdc8fa71c66b84bd96261262f1944"
+            "contentHash": "561c003c858bdc8fa71c66b84bd96261262f1944",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\Predicted_Booking_Rate__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\Predicted_Booking_Rate__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 417,
             "modifiedTime": 1543298910201,
             "changeTime": 1543298910201,
-            "contentHash": "88fa690a98e3683b740d7f79b594181f30a552b2"
+            "contentHash": "88fa690a98e3683b740d7f79b594181f30a552b2",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\State__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\State__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 420,
             "modifiedTime": 1543298910203,
             "changeTime": 1543298910203,
-            "contentHash": "7a2e1dbae96d94eeac560f7016ec9843310b274b"
-        }
-    ],
-    [
-        "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\Total_Booking_Rate__c.field-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\Total_Booking_Rate__c.field-meta.xml",
-            "isDirectory": false,
+            "contentHash": "7a2e1dbae96d94eeac560f7016ec9843310b274b",
             "isMetadataFile": true,
-            "size": 479,
-            "modifiedTime": 1543298910204,
-            "changeTime": 1543298910204,
-            "contentHash": "6b237c379490ea9111a4a9a25a9becb6e3f0de94"
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Space__c\\Space__c.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Space__c\\Space__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2078,
             "modifiedTime": 1543298910239,
             "changeTime": 1543298910239,
-            "contentHash": "22e5468b7c0744e314370cff982388f5b307b439"
+            "contentHash": "22e5468b7c0744e314370cff982388f5b307b439",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Category__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Category__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2293,
             "modifiedTime": 1543298910246,
             "changeTime": 1543298910246,
-            "contentHash": "ba27af2d9454f80639e1ef95cf2864dab50dd78c"
+            "contentHash": "ba27af2d9454f80639e1ef95cf2864dab50dd78c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Daily_Booking_Rate__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Daily_Booking_Rate__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 390,
             "modifiedTime": 1543298910248,
             "changeTime": 1543298910248,
-            "contentHash": "60783813b4462947e771268f053c0ba4d7cc59e6"
+            "contentHash": "60783813b4462947e771268f053c0ba4d7cc59e6",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Market__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Market__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 591,
             "modifiedTime": 1543298910250,
             "changeTime": 1543298910250,
-            "contentHash": "91f2ddaf78c9cc4d9e1272ed7e9d343d041f3ecb"
+            "contentHash": "91f2ddaf78c9cc4d9e1272ed7e9d343d041f3ecb",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Maximum_Capacity__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Maximum_Capacity__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 406,
             "modifiedTime": 1543298910252,
             "changeTime": 1543298910252,
-            "contentHash": "0003ce9322a3cf36acfd4cca2892187a69458481"
+            "contentHash": "0003ce9322a3cf36acfd4cca2892187a69458481",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Minimum_Capacity__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Minimum_Capacity__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 406,
             "modifiedTime": 1543298910255,
             "changeTime": 1543298910255,
-            "contentHash": "dccb9f564846052f7c866b5b17e742d32917db01"
+            "contentHash": "dccb9f564846052f7c866b5b17e742d32917db01",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Picture_URL__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Picture_URL__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 315,
             "modifiedTime": 1543298910256,
             "changeTime": 1543298910256,
-            "contentHash": "7533f19b23213d1e671b85b59211f1cecd4ab814"
+            "contentHash": "7533f19b23213d1e671b85b59211f1cecd4ab814",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Predicted_Booking_Rate__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Predicted_Booking_Rate__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 393,
             "modifiedTime": 1543298910258,
             "changeTime": 1543298910258,
-            "contentHash": "2bf090ea4eae28d07888e797a6cdda9c16d04c8f"
+            "contentHash": "2bf090ea4eae28d07888e797a6cdda9c16d04c8f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Predicted_Demand__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Predicted_Demand__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 377,
             "modifiedTime": 1543298910260,
             "changeTime": 1543298910260,
-            "contentHash": "abead2eca2b72acea9a0283fdf312b7c12449b8b"
+            "contentHash": "abead2eca2b72acea9a0283fdf312b7c12449b8b",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Type__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Type__c.field-meta.xml",
             "isDirectory": false,
+            "size": 464,
+            "modifiedTime": 1543307611641,
+            "changeTime": 1543307611641,
+            "contentHash": "92d0f766367ae725fc3d113a8e68c26996f2add9",
             "isMetadataFile": true,
-            "size": 418,
-            "modifiedTime": 1543298910262,
-            "changeTime": 1543298910262,
-            "contentHash": "23faa3d906c97d6940a714613c9e91858024c23e"
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\Reservation__c.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\Reservation__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2087,
             "modifiedTime": 1543298910307,
             "changeTime": 1543298910307,
-            "contentHash": "fa1d43668585e1e4224395a2227d69fd882dcae7"
+            "contentHash": "fa1d43668585e1e4224395a2227d69fd882dcae7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Account__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Account__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 508,
             "modifiedTime": 1543298910313,
             "changeTime": 1543298910313,
-            "contentHash": "77aaf78e2c33de8b0fc83adcaa3ea7b16d6395e9"
+            "contentHash": "77aaf78e2c33de8b0fc83adcaa3ea7b16d6395e9",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Contact__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Contact__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 508,
             "modifiedTime": 1543298910315,
             "changeTime": 1543298910315,
-            "contentHash": "07cab8f69aeadce57b20e06b41beb7ceb67efb2f"
+            "contentHash": "07cab8f69aeadce57b20e06b41beb7ceb67efb2f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\End_Date__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\End_Date__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 310,
             "modifiedTime": 1543298910317,
             "changeTime": 1543298910317,
-            "contentHash": "83d80bad38c843340220b6d299c2d8ebe5179eb5"
+            "contentHash": "83d80bad38c843340220b6d299c2d8ebe5179eb5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\End_Time__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\End_Time__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 310,
             "modifiedTime": 1543298910319,
             "changeTime": 1543298910319,
-            "contentHash": "b4d2b74ca80ef9dbf8ce2cb2acd57a6d2da90160"
+            "contentHash": "b4d2b74ca80ef9dbf8ce2cb2acd57a6d2da90160",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Lead__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Lead__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 499,
             "modifiedTime": 1543298910321,
             "changeTime": 1543298910321,
-            "contentHash": "b7316963393c9c622926d97c4cf3d98850e2e585"
+            "contentHash": "b7316963393c9c622926d97c4cf3d98850e2e585",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Market__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Market__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 508,
             "modifiedTime": 1543298910324,
             "changeTime": 1543298910324,
-            "contentHash": "6eb275c088bb8524fff0df1a5d8a1f1220faffaa"
+            "contentHash": "6eb275c088bb8524fff0df1a5d8a1f1220faffaa",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Space__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Space__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 505,
             "modifiedTime": 1543298910326,
             "changeTime": 1543298910326,
-            "contentHash": "624c04579fabd4bdc75f4e9305bd6cbd442333ae"
+            "contentHash": "624c04579fabd4bdc75f4e9305bd6cbd442333ae",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Start_Date__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Start_Date__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 314,
             "modifiedTime": 1543298910328,
             "changeTime": 1543298910328,
-            "contentHash": "f5b04b3370748fb868e5664a062079529159bba2"
+            "contentHash": "f5b04b3370748fb868e5664a062079529159bba2",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Start_Time__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Start_Time__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 314,
             "modifiedTime": 1543298910330,
             "changeTime": 1543298910330,
-            "contentHash": "bc9df585a8dbacbf322e07be00b726f3f0da2e0b"
+            "contentHash": "bc9df585a8dbacbf322e07be00b726f3f0da2e0b",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Status__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Status__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 435,
             "modifiedTime": 1543298910331,
             "changeTime": 1543298910331,
-            "contentHash": "03aef4bdf2cdc759d565e3ce021db84dffe9f0f6"
+            "contentHash": "03aef4bdf2cdc759d565e3ce021db84dffe9f0f6",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Total_Number_of_Guests__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Total_Number_of_Guests__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 418,
             "modifiedTime": 1543298910333,
             "changeTime": 1543298910333,
-            "contentHash": "ce0b0cd731f01ae43ce0bcde4f6ba5d30b35fdc3"
+            "contentHash": "ce0b0cd731f01ae43ce0bcde4f6ba5d30b35fdc3",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Contact\\fields\\Reservation_Status__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Contact\\fields\\Reservation_Status__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 465,
             "modifiedTime": 1543298910382,
             "changeTime": 1543298910382,
-            "contentHash": "d117868f3911c002064e03234cb2375dafe8f89d"
+            "contentHash": "d117868f3911c002064e03234cb2375dafe8f89d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9456,
             "modifiedTime": 1543298910396,
             "changeTime": 1543298910396,
-            "contentHash": "4ba1571d66b268cc2dde7f1fd4599407dfaddcf9"
+            "contentHash": "4ba1571d66b268cc2dde7f1fd4599407dfaddcf9",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\layouts\\Space__c-Space Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\layouts\\Space__c-Space Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 3298,
             "modifiedTime": 1543298910403,
             "changeTime": 1543298910403,
-            "contentHash": "91bc9e20b5889ed5bfa53164ee4da8ffd20c04e3"
+            "contentHash": "91bc9e20b5889ed5bfa53164ee4da8ffd20c04e3",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\layouts\\Market__c-Market Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\layouts\\Market__c-Market Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2999,
             "modifiedTime": 1543298910409,
             "changeTime": 1543298910409,
-            "contentHash": "fdbec1a908b0ef1a9e935881a6f6fd3dc32dc9aa"
+            "contentHash": "fdbec1a908b0ef1a9e935881a6f6fd3dc32dc9aa",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9747,
             "modifiedTime": 1543298910417,
             "changeTime": 1543298910417,
-            "contentHash": "0b573acd22e330eb8ea41b22d114319facb80164"
+            "contentHash": "0b573acd22e330eb8ea41b22d114319facb80164",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\layouts\\Reservation__c-Reservation Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\layouts\\Reservation__c-Reservation Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 3560,
             "modifiedTime": 1543298910426,
             "changeTime": 1543298910426,
-            "contentHash": "74ad2bb5df0d83fe1a7f3dcfdbb31594912bae88"
+            "contentHash": "74ad2bb5df0d83fe1a7f3dcfdbb31594912bae88",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9747,
             "modifiedTime": 1543298910434,
             "changeTime": 1543298910434,
-            "contentHash": "0ab5e580d618f20da3fa384536f67b6caa61b03d"
+            "contentHash": "0ab5e580d618f20da3fa384536f67b6caa61b03d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9771,
             "modifiedTime": 1543298910451,
             "changeTime": 1543298910451,
-            "contentHash": "edd55781832b9146c86d5e48e2bca19305f7cf9f"
+            "contentHash": "edd55781832b9146c86d5e48e2bca19305f7cf9f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 10493,
+            "modifiedTime": 1543307611845,
+            "changeTime": 1543307611845,
+            "contentHash": "b0f1056db0b125a254d2b1c7de2138ea95c1fb79",
             "isMetadataFile": true,
-            "size": 8856,
-            "modifiedTime": 1543298910469,
-            "changeTime": 1543298910469,
-            "contentHash": "28136c7bcd7164fead81044772a762b2f4828d1d"
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
+            "size": 25015,
+            "modifiedTime": 1543307611928,
+            "changeTime": 1543307611928,
+            "contentHash": "e508a670d7a813a091485f1c788d62aed7988d55",
             "isMetadataFile": true,
-            "size": 23380,
-            "modifiedTime": 1543298910491,
-            "changeTime": 1543298910491,
-            "contentHash": "e1595eb28e8f49ee2ce9db52e1a3ef49f299277a"
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 10497,
+            "modifiedTime": 1543307611948,
+            "changeTime": 1543307611948,
+            "contentHash": "236b3d5c54d181be8404d57fa92b39f36e432e16",
             "isMetadataFile": true,
-            "size": 8860,
-            "modifiedTime": 1543298910503,
-            "changeTime": 1543298910503,
-            "contentHash": "07f1f3a9a92ee0f5a13de4d1438ffa4cc68dfa0b"
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 10833,
+            "modifiedTime": 1543307611975,
+            "changeTime": 1543307611975,
+            "contentHash": "784b76fb7efd55cda7b74a2f487622a353562de4",
             "isMetadataFile": true,
-            "size": 9196,
-            "modifiedTime": 1543298910514,
-            "changeTime": 1543298910514,
-            "contentHash": "c465751b8c7aa870750e934b97d7cd302d9a5d86"
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\globalValueSets",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\globalValueSets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543298910166,
             "changeTime": 1543298910166,
-            "contentHash": "5b31846d56ec02084c8bf1954d93dae03cd28e9e"
+            "contentHash": "5b31846d56ec02084c8bf1954d93dae03cd28e9e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Market__c",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Market__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543298910192,
             "changeTime": 1543298910192,
-            "contentHash": "fce16bb6dfc4f3975520570ad9148bc6d7eb00e9"
+            "contentHash": "fce16bb6dfc4f3975520570ad9148bc6d7eb00e9",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1543298910377,
-            "changeTime": 1543298910377,
-            "contentHash": "f4015d2563d7911e017ed4578526531514ef8c6b"
+            "modifiedTime": 1543307611655,
+            "changeTime": 1543307611655,
+            "contentHash": "bf16ba11d9284d660bf9e104b0afe0bafd7e2588",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1543298910204,
-            "changeTime": 1543298910204,
-            "contentHash": "35b32604ead1a7154fd99b76d036f682b2c06963"
+            "modifiedTime": 1543307611628,
+            "changeTime": 1543307611628,
+            "contentHash": "ea6054a9e1031875c634e5b4a0eb7985390e0551",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Space__c",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Space__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543298910240,
             "changeTime": 1543298910240,
-            "contentHash": "6c1bd86a2543f768e375b276ac1654663547c5c4"
+            "contentHash": "6c1bd86a2543f768e375b276ac1654663547c5c4",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543298910262,
             "changeTime": 1543298910262,
-            "contentHash": "1b0cb1744008f396c4f8b45d93065fbd2d62ad75"
+            "contentHash": "1b0cb1744008f396c4f8b45d93065fbd2d62ad75",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Reservation__c",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Reservation__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543298910308,
             "changeTime": 1543298910308,
-            "contentHash": "68bf80eb1f3569d9845ee84c883977cebb5d3b6d"
+            "contentHash": "68bf80eb1f3569d9845ee84c883977cebb5d3b6d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Reservation__c\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543298910332,
             "changeTime": 1543298910332,
-            "contentHash": "41ddc6d06445515e720c24eaed5bb2d69b13348d"
+            "contentHash": "41ddc6d06445515e720c24eaed5bb2d69b13348d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Contact\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Contact\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543298910382,
             "changeTime": 1543298910382,
-            "contentHash": "be30f06c4ef181dd2bd5dcd588f3d92d65059238"
+            "contentHash": "be30f06c4ef181dd2bd5dcd588f3d92d65059238",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Contact",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Contact",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543298910378,
             "changeTime": 1543298910378,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\layouts",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1543298910450,
-            "changeTime": 1543298910450,
-            "contentHash": "070f30c1a7eef9773d72892fe6f4e1e903d872a8"
+            "modifiedTime": 1543307611705,
+            "changeTime": 1543307611705,
+            "contentHash": "b104867e3a66de18f406c45704060161d516bffc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\profiles",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543298910512,
             "changeTime": 1543298910512,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\permissionsets",
+        {
+            "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543299875094,
+            "changeTime": 1543299875271,
+            "contentHash": "48101f54be047d2941f357e713fca6ba980b6a20",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\permissionsets\\EasySpacesObjects.permissionset-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\permissionsets\\EasySpacesObjects.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 8603,
+            "modifiedTime": 1543307612007,
+            "changeTime": 1543307612007,
+            "contentHash": "44fbab6b97c8bc93f65808a19df9bf877247a201",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\Total_Daily_Booking_Rate__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Market__c\\fields\\Total_Daily_Booking_Rate__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 491,
+            "modifiedTime": 1543307611629,
+            "changeTime": 1543307611629,
+            "contentHash": "3dbc0bcadda8cd6511e48602b4ebb98e5897a4e8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\Customer_Fields__mdt.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\Customer_Fields__mdt.object-meta.xml",
+            "isDirectory": false,
+            "size": 236,
+            "modifiedTime": 1543307611657,
+            "changeTime": 1543307611657,
+            "contentHash": "ef6ad44cd1debd770cacef0f3c93c29fefb8b035",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_City__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_City__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 395,
+            "modifiedTime": 1543307611675,
+            "changeTime": 1543307611675,
+            "contentHash": "ada6ccae9353762ea32372a9af05b1e3db136139",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Email__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Email__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 682,
+            "modifiedTime": 1543307611677,
+            "changeTime": 1543307611677,
+            "contentHash": "3a8b971d1b2bf5458826a1fc463cd1292ed624b4",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Name__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 678,
+            "modifiedTime": 1543307611679,
+            "changeTime": 1543307611679,
+            "contentHash": "e4f1df3e02d40f7ab5849f0de895b2628b5e7245",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_State__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_State__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 397,
+            "modifiedTime": 1543307611681,
+            "changeTime": 1543307611681,
+            "contentHash": "443845b358ba1fef20224455bd30fe5df3721d36",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Status__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Status__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 672,
+            "modifiedTime": 1543307611682,
+            "changeTime": 1543307611682,
+            "contentHash": "5c36e886f35e6c26c0f97c07da590ff509975cad",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Sobject_Type__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Sobject_Type__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 549,
+            "modifiedTime": 1543307611684,
+            "changeTime": 1543307611684,
+            "contentHash": "77074a9a7043bdfbe4418f947d5d46c6245f89c2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\layouts\\Customer_Fields__mdt-Customer Field Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\layouts\\Customer_Fields__mdt-Customer Field Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3060,
+            "modifiedTime": 1543307611706,
+            "changeTime": 1543307611706,
+            "contentHash": "3df04149274d09a9ff8eec21f1731ac6bb05e277",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\tabs\\Reservation__c.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\tabs\\Reservation__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 222,
+            "modifiedTime": 1543307611715,
+            "changeTime": 1543307611715,
+            "contentHash": "87293cec66ff4aa17d55a221eb0c2b8dc2e8bbb2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\tabs\\Market__c.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\tabs\\Market__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 225,
+            "modifiedTime": 1543307611720,
+            "changeTime": 1543307611720,
+            "contentHash": "5abb71f306e41461e78462c6165be561dbec4bd8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\tabs\\Space__c.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\tabs\\Space__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 224,
+            "modifiedTime": 1543307611729,
+            "changeTime": 1543307611729,
+            "contentHash": "5521f0d16ccceb7d2431c493ed952c7e36651fa8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objectTranslations\\Customer_Fields__mdt-en_US\\Customer_Fields__mdt-en_US.objectTranslation-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objectTranslations\\Customer_Fields__mdt-en_US\\Customer_Fields__mdt-en_US.objectTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 388,
+            "modifiedTime": 1543307611743,
+            "changeTime": 1543307611743,
+            "contentHash": "d7ff6b5ef5083785d4b6db321c5686dd2db482e0",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objectTranslations\\Customer_Fields__mdt-en_US\\Customer_City__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objectTranslations\\Customer_Fields__mdt-en_US\\Customer_City__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 214,
+            "modifiedTime": 1543307611746,
+            "changeTime": 1543307611746,
+            "contentHash": "6b6029e586269486650aa6452443f6dcd9bce52c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objectTranslations\\Customer_Fields__mdt-en_US\\Customer_Email__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objectTranslations\\Customer_Fields__mdt-en_US\\Customer_Email__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 216,
+            "modifiedTime": 1543307611747,
+            "changeTime": 1543307611747,
+            "contentHash": "eaf8cd2eab034e178ec7f0d9509d39651a8b6fe2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objectTranslations\\Customer_Fields__mdt-en_US\\Customer_Name__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objectTranslations\\Customer_Fields__mdt-en_US\\Customer_Name__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 214,
+            "modifiedTime": 1543307611749,
+            "changeTime": 1543307611749,
+            "contentHash": "c631ee13337a3a4ba32d73d1032c04ad1c18628d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objectTranslations\\Customer_Fields__mdt-en_US\\Customer_State__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objectTranslations\\Customer_Fields__mdt-en_US\\Customer_State__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 216,
+            "modifiedTime": 1543307611751,
+            "changeTime": 1543307611751,
+            "contentHash": "b685d555034cd9d7b88f51ebf2affe4375c4f58f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objectTranslations\\Customer_Fields__mdt-en_US\\Customer_Status__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objectTranslations\\Customer_Fields__mdt-en_US\\Customer_Status__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 218,
+            "modifiedTime": 1543307611752,
+            "changeTime": 1543307611752,
+            "contentHash": "618cc4d0148f4ce553b269f8447b386311b77d78",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objectTranslations\\Customer_Fields__mdt-en_US\\Sobject_Type__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objectTranslations\\Customer_Fields__mdt-en_US\\Sobject_Type__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 212,
+            "modifiedTime": 1543307611754,
+            "changeTime": 1543307611754,
+            "contentHash": "f531f7120fed00da20253c0b965c2883ff147324",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\classes\\reservationManagerController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\classes\\reservationManagerController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1543307611778,
+            "changeTime": 1543307611778,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\classes\\reservationManagerController.cls",
+        {
+            "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\classes\\reservationManagerController.cls",
+            "isDirectory": false,
+            "size": 1773,
+            "modifiedTime": 1543307611784,
+            "changeTime": 1543307611784,
+            "contentHash": "2ee6a7535c6e87674f9eec2d56d4af75b6d93480",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\classes\\customerServices.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\classes\\customerServices.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1543307611792,
+            "changeTime": 1543307611792,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\classes\\customerServices.cls",
+        {
+            "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\classes\\customerServices.cls",
+            "isDirectory": false,
+            "size": 1715,
+            "modifiedTime": 1543307611797,
+            "changeTime": 1543307611797,
+            "contentHash": "c9d4523cd11c9950c1fbf8c8e1799465b507aa7f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt",
+        {
+            "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543307611658,
+            "changeTime": 1543307611658,
+            "contentHash": "e1b2731ee3f217f9c3cae2b1daba8b54db2c1a48",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields",
+        {
+            "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543307611683,
+            "changeTime": 1543307611683,
+            "contentHash": "02b95b649e97ca8796cee9b0dbc2ab38723358e1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543307611728,
+            "changeTime": 1543307611728,
+            "contentHash": "a1a3c3b675f3be961d8e3cf8e64bbfa73b7a4bef",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objectTranslations\\Customer_Fields__mdt-en_US",
+        {
+            "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objectTranslations\\Customer_Fields__mdt-en_US",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543307611753,
+            "changeTime": 1543307611753,
+            "contentHash": "690a6b255e305973b1f058b591809b4f4f9f09c5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objectTranslations",
+        {
+            "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\objectTranslations",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543307611741,
+            "changeTime": 1543307611741,
+            "contentHash": "f039fc037dfd7e896ee011d558d32fd36b9bc7c8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543307611796,
+            "changeTime": 1543307611796,
+            "contentHash": "db8d4fb2830b729e355c21338865355650835a05",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\customMetadata\\Customer_Fields.Lead_Customer_Fields.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\customMetadata\\Customer_Fields.Lead_Customer_Fields.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 983,
+            "modifiedTime": 1543307704415,
+            "changeTime": 1543307704415,
+            "contentHash": "da97824a35624b9c8e582ddc773fedfae864870d"
+        }
+    ],
+    [
+        "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\customMetadata\\Customer_Fields.Contact_Customer_Field.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\customMetadata\\Customer_Fields.Contact_Customer_Field.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1002,
+            "modifiedTime": 1543307704424,
+            "changeTime": 1543307704424,
+            "contentHash": "4a7432fe2f49006371b047db71933841ad0a8698"
+        }
+    ],
+    [
+        "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\customMetadata",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\arjen.l.nayal\\Documents\\LightningTrainingORG\\myeasy\\force-app\\main\\default\\customMetadata",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543307704423,
+            "changeTime": 1543307704423,
+            "contentHash": "79e57c27e9c09be5656a4f14d138441365219c22"
         }
     ]
 ]
